@@ -1,0 +1,1 @@
+git push --force-with-lease origin $(git_current_branch)
